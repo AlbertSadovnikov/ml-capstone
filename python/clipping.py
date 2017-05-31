@@ -1,4 +1,10 @@
 # taken from Rosetta code
+# Clipping
+# https://rosettacode.org/wiki/Sutherland-Hodgman_polygon_clipping#Python
+# -> build polygon
+# Maximum rectangle
+# http://cgm.cs.mcgill.ca/~athens/cs507/Projects/2003/DanielSud/
+# -> find maximal rectangle
 
 def clip(subjectPolygon, clipPolygon):
     def inside(p):
