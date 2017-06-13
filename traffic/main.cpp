@@ -55,10 +55,10 @@ int main(int ac, char* av[]) {
         cout << "File: " << input_file.filename() << '\n'
              << frameCount << " frames " << frameWidth << "x" << frameHeight << "@" << framePS << "fps" << '\n';
         cv::Mat frame;
-        cv::namedWindow("frame",1);
+        // cv::namedWindow("frame",1);
         while (capture.read(frame)) {
-            cv::imshow("frame", frame);
-            if(cv::waitKey(1) >= 0) break;
+            // cv::imshow("frame", frame);
+            // if(cv::waitKey(1) >= 0) break;
         }
     }
     catch (exception& e) {
