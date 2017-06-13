@@ -3,8 +3,14 @@
 Albert Sadovnikov  
 June 13th, 2017
 
-## Traffic analysis of aerial video data
+[sample_image]: ./docs/images/sample_image.jpg "Sample aerial image"
+[sample_video]: ./docs/images/sample_video.gif "Sample aerial video"
 
+
+## Traffic analysis of aerial video data
+![sample_image]
+
+![sample_video]
 
 ### Domain Background
 _(approx. 1-2 paragraphs)_
