@@ -35,8 +35,8 @@ for idx in range(1, frameCount):
     transforms[idx, :, :] = get_transform(base_gray, frame_gray)
     base_gray = frame_gray.copy()
     if idx % 100 == 0:
-        print('%d frames processed\n' % idx)
+        print('%d frames processed' % idx)
 
-out_file_name = 'transforms00'
+out_file_name = 'transforms02'
 np.savez(out_file_name, transforms=transforms)
 cap.release()
