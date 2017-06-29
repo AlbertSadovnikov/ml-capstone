@@ -3,56 +3,94 @@
 Albert Sadovnikov  
 June 13th, 2017
 
+
 [sample_image]: ./docs/images/sample_image.jpg "Sample aerial image"
 [sample_video]: ./docs/images/sample_video.gif "Sample aerial video"
 
 
 ## Traffic analysis of aerial video data
-![sample_image]
 
-![sample_video]
+[comment]: <> (https://www.youtube.com/watch?v=_EI7gjQFTdo)
+[comment]: <> (https://www.youtube.com/watch?v=1C-BxSt_ub8)
+
 
 ### Domain Background
-_(approx. 1-2 paragraphs)_
 
-In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
+Automated analytics involving detection, tracking and counting of automobiles
+from aerial platform are useful for both commercial and government
+purposes. Tracking and counting data can be used to monitor volume and
+pattern of traffic as well as volume of parking. It can be more cost effective
+than embedding sensors in the road. [1]
+
 
 ### Problem Statement
-_(approx. 1 paragraph)_
 
-In this section, clearly describe the problem that is to be solved. The problem described should be well defined and should have at least one relevant potential solution. Additionally, describe the problem thoroughly such that it is clear that the problem is quantifiable (the problem can be expressed in mathematical or logical terms) , measurable (the problem can be measured by some metric and clearly observed), and replicable (the problem can be reproduced and occurs more than once).
+I have a video of a road roundabout taken from a drone, I would like to detect and track all the cars in it and draw their trajectories.
+![sample_video]
+
+The goal of the project is to study the domain and to experiment with latest models publicly available.
+Goal for the future would be to detect different vehicle types as well as pedestrians. Also, it would be interesting to estimate object speeds, but this might require finding image to world coordinate transformation.
+![sample_image]
 
 ### Datasets and Inputs
-_(approx. 2-3 paragraphs)_
 
-In this section, the dataset(s) and/or input(s) being considered for the project should be thoroughly described, such as how they relate to the problem and why they should be used. Information such as how the dataset or input is (was) obtained, and the characteristics of the dataset or input, should be included with relevant references and citations as necessary It should be clear how the dataset(s) or input(s) will be used in the project and whether their use is appropriate given the context of the problem.
+Model input would be a video file, unfortunately I have only one video sample.
+
+For object detection training I am planning to use a subset of COWC database [1].
+Could be that I might need to use some other dataset, which remains to be seen during the development.  
 
 ### Solution Statement
-_(approx. 1 paragraph)_
 
-In this section, clearly describe a solution to the problem. The solution should be applicable to the project domain and appropriate for the dataset(s) or input(s) given. Additionally, describe the solution thoroughly such that it is clear that the solution is quantifiable (the solution can be expressed in mathematical or logical terms) , measurable (the solution can be measured by some metric and clearly observed), and replicable (the solution can be reproduced and occurs more than once).
+Looking at the video the solution could be as follows:
+1. Stabilize the video (fix the background).
+2. Detect cars on each of the frames.
+3. Combine detections through the video to build up trajectories.
+4. Create an output video where the cars have bounding boxes drawn over them and also the trajectories are added.
 
 ### Benchmark Model
-_(approximately 1-2 paragraphs)_
 
-In this section, provide the details for a benchmark model or result that relates to the domain, problem statement, and intended solution. Ideally, the benchmark model or result contextualizes existing methods or known information in the domain and problem given, which could then be objectively compared to the solution. Describe how the benchmark model or result is measurable (can be measured by some metric and clearly observed) with thorough detail.
+I was not able to find any benchmark model for the project. There are some commercial applications in the domain, but those do not disclose any model details and data.
+Ideally, I am aiming at the results obtained in [2].
 
 ### Evaluation Metrics
-_(approx. 1-2 paragraphs)_
 
-In this section, propose at least one evaluation metric that can be used to quantify the performance of both the benchmark model and the solution model. The evaluation metric(s) you propose should be appropriate given the context of the data, the problem statement, and the intended solution. Describe how the evaluation metric(s) are derived and provide an example of their mathematical representations (if applicable). Complex evaluation metrics should be clearly defined and quantifiable (can be expressed in mathematical or logical terms).
+It is hard to make a meaningful evaluation metric in this project, since I don't have the target video annotated.
+Annotating this video seems to be quite a tedious task (drawing bounding boxes on each and every frame).
+
+A simple and yet descriptive metric would be to count all the cars appearing in the video and use it as an initial metric.
+
+After there is some model working at least partially - there would be a possibility to get the video annotated automatically and then make some manual fixes.
 
 ### Project Design
-_(approx. 1 page)_
 
-In this final section, summarize a theoretical workflow for approaching a solution given the problem. Provide thorough discussion for what strategies you may consider employing, what analysis of the data might be required before being used, or which algorithms will be considered for your implementation. The workflow and discussion that you provide should align with the qualities of the previous sections. Additionally, you are encouraged to include small visualizations, pseudocode, or diagrams to aid in describing the project design, but it is not required. The discussion should clearly outline your intended workflow of the capstone project.
+I am planning to use Python3, OpenCV3 and Keras with Tensorflow backend. Could be that I'll write some routines in C++.
 
------------
+The first step would be to detect cars in standalone frames, then track those through the video using optical flow or some other tracking methods. Tracking can be periodically verified by running a detector on the tracked frames.
 
-**Before submitting your proposal, ask yourself. . .**
+I would like to start with Faster R-CNN [3] and see where can I go from there [4][5].
 
-- Does the proposal you have written follow a well-organized structure similar to that of the project template?
-- Is each section (particularly **Solution Statement** and **Project Design**) written in a clear, concise and specific fashion? Are there any ambiguous terms or phrases that need clarification?
-- Would the intended audience of your project be able to understand your proposal?
-- Have you properly proofread your proposal to assure there are minimal grammatical and spelling mistakes?
-- Are all the resources used for this project correctly cited and referenced?
+If the results seem promising - I will continue with building up trajectories and image stabilization.
+
+### Potential Problems
+
+It is quite hard to tell if the project is going to be successful or not. The main concern is that there is no data publicly available for this particular task: there are datasets with aerial car images [1] and car images taken "from car" [6].
+
+Quick test with Faster R-CNN trained [7] on Pascal VOC [8] 2007 and 2012 didn't produce any helpful result.
+
+### References
+
+1. [A Large Contextual Dataset for Classification, Detection and Counting of Cars with Deep Learning.](http://gdo-datasci.ucllnl.org/cowc/mundhenk_et_al_eccv_2016.pdf)
+
+2. [Sample video processed by DataFromSky.](https://www.youtube.com/watch?v=XwzbFzqhF1Y&t=7s)
+
+3. [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.](https://arxiv.org/abs/1506.01497)
+
+4. [SSD: Single Shot MultiBox Detector.](https://arxiv.org/abs/1512.02325)
+
+5. [You Only Look Once: Unified, Real-Time Object Detection.](https://arxiv.org/abs/1506.02640)
+
+6. [The KITTI Vision Benchmark Suite: Object Detection Evaluation 2012](http://www.cvlibs.net/datasets/kitti/eval_object.php)
+
+7. [An Implementation of Faster RCNN with Study for Region Sampling](https://arxiv.org/pdf/1702.02138.pdf)
+
+8. [The PASCAL Visual Object Classes](http://host.robots.ox.ac.uk/pascal/VOC/)
