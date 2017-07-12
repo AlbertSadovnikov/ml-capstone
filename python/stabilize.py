@@ -27,16 +27,20 @@ base_gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 transforms = np.zeros((frameCount, 3, 3), dtype=np.float)
 transforms[0, :, :] = np.eye(3)
 
+back_transforms = np.zeros((frameCount, 3, 3), dtype=np.float)
+back_transforms[0, :, :] = np.eye(3)
+
 for idx in range(1, frameCount):
     ret, frame = cap.read()
     if not ret:
         break
     frame_gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
     transforms[idx, :, :] = get_transform(base_gray, frame_gray)
+    back_transforms[idx, :, :] = get_transform(frame_gray, base_gray)
     base_gray = frame_gray.copy()
     if idx % 100 == 0:
         print('%d frames processed' % idx)
 
-out_file_name = 'transforms02'
-np.savez(out_file_name, transforms=transforms)
+out_file_name = 'transforms03'
+np.savez(out_file_name, transforms=transforms, back_transforms=back_transforms)
 cap.release()

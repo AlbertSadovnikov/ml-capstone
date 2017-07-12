@@ -1,3 +1,4 @@
+import os
 import cv2
 
 video_file = '../data/test_00.mp4'
@@ -6,6 +7,9 @@ output_file_pattern = '../data/gt/frame_%06d.jpg'
 cap = cv2.VideoCapture(video_file)
 
 frame_skip = 150
+
+if not os.path.exists('../data/gt'):
+    os.makedirs('../data/gt')
 
 # get video parameters
 frameCount = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
