@@ -1,0 +1,7 @@
+- Download video
+wget -c -i list.txt
+
+- Extract frames
+python3 prepare.py
+
+
