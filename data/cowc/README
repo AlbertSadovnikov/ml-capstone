@@ -1,0 +1,7 @@
+- cd to download folder and
+wget -c -i list.txt
+
+- cd .. and extract frames and dataset.xml
+python3 prepare.py
+
+
