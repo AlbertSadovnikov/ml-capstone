@@ -1,0 +1,2977 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='images/000075.jpg'>
+    <box top='749' left='1145' width='150' height='99'>
+      <label>car</label>
+    </box>
+    <box top='298' left='1451' width='116' height='71'>
+      <label>car</label>
+    </box>
+    <box top='345' left='1777' width='132' height='78'>
+      <label>car</label>
+    </box>
+    <box top='137' left='1586' width='109' height='64'>
+      <label>car</label>
+    </box>
+    <box top='101' left='1600' width='104' height='57'>
+      <label>car</label>
+    </box>
+    <box top='38' left='1656' width='110' height='61'>
+      <label>car</label>
+    </box>
+    <box top='447' left='14' width='100' height='81'>
+      <label>car</label>
+    </box>
+    <box top='491' left='-18' width='81' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/000225.jpg'>
+    <box top='195' left='727' width='103' height='54'>
+      <label>car</label>
+    </box>
+    <box top='312' left='1442' width='118' height='74'>
+      <label>car</label>
+    </box>
+    <box top='159' left='1576' width='111' height='62'>
+      <label>car</label>
+    </box>
+    <box top='117' left='1589' width='110' height='62'>
+      <label>car</label>
+    </box>
+    <box top='55' left='1640' width='120' height='67'>
+      <label>car</label>
+    </box>
+    <box top='363' left='1761' width='136' height='79'>
+      <label>car</label>
+    </box>
+    <box top='456' left='25' width='96' height='80'>
+      <label>car</label>
+    </box>
+    <box top='496' left='-9' width='78' height='81'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/000375.jpg'>
+    <box top='724' left='1373' width='131' height='108'>
+      <label>car</label>
+    </box>
+    <box top='289' left='1455' width='119' height='74'>
+      <label>car</label>
+    </box>
+    <box top='338' left='1779' width='137' height='80'>
+      <label>car</label>
+    </box>
+    <box top='132' left='1580' width='123' height='63'>
+      <label>car</label>
+    </box>
+    <box top='91' left='1598' width='117' height='60'>
+      <label>car</label>
+    </box>
+    <box top='30' left='1657' width='119' height='67'>
+      <label>car</label>
+    </box>
+    <box top='428' left='9' width='103' height='84'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/000525.jpg'>
+    <box top='242' left='905' width='103' height='62'>
+      <label>car</label>
+    </box>
+    <box top='299' left='1452' width='119' height='74'>
+      <label>car</label>
+    </box>
+    <box top='349' left='1775' width='135' height='81'>
+      <label>car</label>
+    </box>
+    <box top='141' left='1585' width='115' height='64'>
+      <label>car</label>
+    </box>
+    <box top='101' left='1604' width='108' height='62'>
+      <label>car</label>
+    </box>
+    <box top='42' left='1652' width='123' height='68'>
+      <label>car</label>
+    </box>
+    <box top='429' left='22' width='108' height='85'>
+      <label>car</label>
+    </box>
+    <box top='472' left='-15' width='81' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/000675.jpg'>
+    <box top='246' left='1487' width='126' height='79'>
+      <label>car</label>
+    </box>
+    <box top='296' left='1828' width='123' height='85'>
+      <label>car</label>
+    </box>
+    <box top='81' left='1629' width='119' height='77'>
+      <label>car</label>
+    </box>
+    <box top='42' left='1641' width='117' height='66'>
+      <label>car</label>
+    </box>
+    <box top='-11' left='1704' width='120' height='66'>
+      <label>car</label>
+    </box>
+    <box top='384' left='1' width='99' height='83'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/000825.jpg'>
+    <box top='295' left='1483' width='119' height='75'>
+      <label>car</label>
+    </box>
+    <box top='135' left='1614' width='119' height='69'>
+      <label>car</label>
+    </box>
+    <box top='97' left='1628' width='117' height='68'>
+      <label>car</label>
+    </box>
+    <box top='35' left='1684' width='125' height='70'>
+      <label>car</label>
+    </box>
+    <box top='347' left='1808' width='122' height='85'>
+      <label>car</label>
+    </box>
+    <box top='429' left='50' width='101' height='81'>
+      <label>car</label>
+    </box>
+    <box top='471' left='3' width='90' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/000975.jpg'>
+    <box top='372' left='532' width='75' height='98'>
+      <label>car</label>
+    </box>
+    <box top='945' left='434' width='145' height='134'>
+      <label>car</label>
+    </box>
+    <box top='426' left='32' width='95' height='80'>
+      <label>car</label>
+    </box>
+    <box top='468' left='-7' width='80' height='76'>
+      <label>car</label>
+    </box>
+    <box top='283' left='1483' width='123' height='78'>
+      <label>car</label>
+    </box>
+    <box top='123' left='1620' width='118' height='70'>
+      <label>car</label>
+    </box>
+    <box top='84' left='1631' width='117' height='66'>
+      <label>car</label>
+    </box>
+    <box top='24' left='1693' width='116' height='68'>
+      <label>car</label>
+    </box>
+    <box top='337' left='1816' width='114' height='94'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/001125.jpg'>
+    <box top='703' left='864' width='125' height='96'>
+      <label>car</label>
+    </box>
+    <box top='307' left='1474' width='120' height='74'>
+      <label>car</label>
+    </box>
+    <box top='146' left='1613' width='111' height='70'>
+      <label>car</label>
+    </box>
+    <box top='108' left='1625' width='109' height='61'>
+      <label>car</label>
+    </box>
+    <box top='46' left='1679' width='118' height='68'>
+      <label>car</label>
+    </box>
+    <box top='358' left='1803' width='122' height='82'>
+      <label>car</label>
+    </box>
+    <box top='447' left='50' width='90' height='76'>
+      <label>car</label>
+    </box>
+    <box top='490' left='1' width='89' height='77'>
+      <label>car</label>
+    </box>
+    <box top='881' left='1598' width='277' height='187'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/001275.jpg'>
+    <box top='418' left='1169' width='116' height='161'>
+      <label>van</label>
+    </box>
+    <box top='120' left='293' width='81' height='68'>
+      <label>car</label>
+    </box>
+    <box top='305' left='1482' width='121' height='74'>
+      <label>car</label>
+    </box>
+    <box top='144' left='1617' width='114' height='69'>
+      <label>car</label>
+    </box>
+    <box top='104' left='1632' width='109' height='63'>
+      <label>car</label>
+    </box>
+    <box top='43' left='1687' width='116' height='69'>
+      <label>car</label>
+    </box>
+    <box top='355' left='1813' width='117' height='81'>
+      <label>car</label>
+    </box>
+    <box top='447' left='50' width='91' height='79'>
+      <label>car</label>
+    </box>
+    <box top='492' left='1' width='91' height='75'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/001425.jpg'>
+    <box top='448' left='28' width='91' height='80'>
+      <label>car</label>
+    </box>
+    <box top='490' left='-17' width='84' height='78'>
+      <label>car</label>
+    </box>
+    <box top='742' left='502' width='84' height='126'>
+      <label>car</label>
+    </box>
+    <box top='126' left='1131' width='94' height='72'>
+      <label>car</label>
+    </box>
+    <box top='304' left='1470' width='119' height='73'>
+      <label>car</label>
+    </box>
+    <box top='140' left='1607' width='112' height='70'>
+      <label>car</label>
+    </box>
+    <box top='104' left='1618' width='110' height='62'>
+      <label>car</label>
+    </box>
+    <box top='43' left='1674' width='116' height='70'>
+      <label>car</label>
+    </box>
+    <box top='353' left='1802' width='120' height='83'>
+      <label>car</label>
+    </box>
+    <box top='180' left='707' width='160' height='88'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/001575.jpg'>
+    <box top='110' left='486' width='92' height='52'>
+      <label>car</label>
+    </box>
+    <box top='450' left='33' width='97' height='78'>
+      <label>car</label>
+    </box>
+    <box top='491' left='-18' width='95' height='79'>
+      <label>car</label>
+    </box>
+    <box top='308' left='1475' width='122' height='74'>
+      <label>car</label>
+    </box>
+    <box top='151' left='1613' width='114' height='64'>
+      <label>car</label>
+    </box>
+    <box top='109' left='1626' width='107' height='62'>
+      <label>car</label>
+    </box>
+    <box top='46' left='1681' width='116' height='71'>
+      <label>car</label>
+    </box>
+    <box top='358' left='1807' width='126' height='84'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/001725.jpg'>
+    <box top='460' left='40' width='95' height='80'>
+      <label>car</label>
+    </box>
+    <box top='505' left='-6' width='89' height='78'>
+      <label>car</label>
+    </box>
+    <box top='328' left='1459' width='118' height='75'>
+      <label>car</label>
+    </box>
+    <box top='170' left='1590' width='116' height='67'>
+      <label>car</label>
+    </box>
+    <box top='132' left='1607' width='108' height='60'>
+      <label>car</label>
+    </box>
+    <box top='70' left='1660' width='118' height='70'>
+      <label>car</label>
+    </box>
+    <box top='379' left='1781' width='135' height='81'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/001875.jpg'>
+    <box top='139' left='319' width='83' height='70'>
+      <label>car</label>
+    </box>
+    <box top='426' left='11' width='99' height='82'>
+      <label>car</label>
+    </box>
+    <box top='471' left='-33' width='91' height='78'>
+      <label>car</label>
+    </box>
+    <box top='291' left='1469' width='120' height='77'>
+      <label>car</label>
+    </box>
+    <box top='128' left='1599' width='120' height='76'>
+      <label>car</label>
+    </box>
+    <box top='90' left='1615' width='113' height='64'>
+      <label>car</label>
+    </box>
+    <box top='30' left='1670' width='123' height='71'>
+      <label>car</label>
+    </box>
+    <box top='342' left='1794' width='129' height='87'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/002025.jpg'>
+    <box top='232' left='436' width='92' height='88'>
+      <label>car</label>
+    </box>
+    <box top='94' left='255' width='88' height='74'>
+      <label>car</label>
+    </box>
+    <box top='194' left='831' width='110' height='51'>
+      <label>car</label>
+    </box>
+    <box top='291' left='1473' width='120' height='77'>
+      <label>car</label>
+    </box>
+    <box top='134' left='1606' width='118' height='69'>
+      <label>car</label>
+    </box>
+    <box top='95' left='1623' width='109' height='62'>
+      <label>car</label>
+    </box>
+    <box top='32' left='1676' width='120' height='71'>
+      <label>car</label>
+    </box>
+    <box top='344' left='1804' width='117' height='82'>
+      <label>car</label>
+    </box>
+    <box top='616' left='796' width='122' height='85'>
+      <label>car</label>
+    </box>
+    <box top='428' left='34' width='98' height='80'>
+      <label>car</label>
+    </box>
+    <box top='470' left='-5' width='83' height='80'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/002175.jpg'>
+    <box top='670' left='504' width='92' height='138'>
+      <label>car</label>
+    </box>
+    <box top='431' left='34' width='95' height='80'>
+      <label>car</label>
+    </box>
+    <box top='471' left='-5' width='83' height='80'>
+      <label>car</label>
+    </box>
+    <box top='287' left='1485' width='123' height='77'>
+      <label>car</label>
+    </box>
+    <box top='126' left='1621' width='117' height='69'>
+      <label>car</label>
+    </box>
+    <box top='86' left='1634' width='116' height='65'>
+      <label>car</label>
+    </box>
+    <box top='29' left='1696' width='115' height='68'>
+      <label>car</label>
+    </box>
+    <box top='339' left='1818' width='115' height='83'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/002325.jpg'>
+    <box top='437' left='43' width='94' height='78'>
+      <label>car</label>
+    </box>
+    <box top='478' left='-4' width='91' height='79'>
+      <label>car</label>
+    </box>
+    <box top='294' left='1486' width='121' height='74'>
+      <label>car</label>
+    </box>
+    <box top='135' left='1620' width='116' height='67'>
+      <label>car</label>
+    </box>
+    <box top='92' left='1633' width='113' height='63'>
+      <label>car</label>
+    </box>
+    <box top='33' left='1688' width='120' height='69'>
+      <label>car</label>
+    </box>
+    <box top='345' left='1819' width='114' height='81'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/002475.jpg'>
+    <box top='462' left='54' width='96' height='78'>
+      <label>car</label>
+    </box>
+    <box top='506' left='7' width='92' height='74'>
+      <label>car</label>
+    </box>
+    <box top='328' left='1469' width='117' height='73'>
+      <label>car</label>
+    </box>
+    <box top='169' left='1599' width='114' height='66'>
+      <label>car</label>
+    </box>
+    <box top='131' left='1616' width='106' height='61'>
+      <label>car</label>
+    </box>
+    <box top='70' left='1668' width='116' height='65'>
+      <label>car</label>
+    </box>
+    <box top='378' left='1787' width='133' height='84'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/002625.jpg'>
+    <box top='622' left='977' width='114' height='94'>
+      <label>car</label>
+    </box>
+    <box top='281' left='1482' width='121' height='76'>
+      <label>car</label>
+    </box>
+    <box top='122' left='1618' width='114' height='65'>
+      <label>car</label>
+    </box>
+    <box top='80' left='1632' width='110' height='66'>
+      <label>car</label>
+    </box>
+    <box top='23' left='1688' width='118' height='71'>
+      <label>car</label>
+    </box>
+    <box top='331' left='1811' width='115' height='91'>
+      <label>car</label>
+    </box>
+    <box top='416' left='26' width='94' height='83'>
+      <label>car</label>
+    </box>
+    <box top='460' left='-18' width='86' height='81'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/002775.jpg'>
+    <box top='216' left='837' width='94' height='57'>
+      <label>car</label>
+    </box>
+    <box top='296' left='1485' width='122' height='75'>
+      <label>car</label>
+    </box>
+    <box top='134' left='1624' width='115' height='69'>
+      <label>car</label>
+    </box>
+    <box top='94' left='1638' width='110' height='66'>
+      <label>car</label>
+    </box>
+    <box top='35' left='1691' width='122' height='71'>
+      <label>car</label>
+    </box>
+    <box top='344' left='1814' width='128' height='88'>
+      <label>car</label>
+    </box>
+    <box top='433' left='43' width='96' height='78'>
+      <label>car</label>
+    </box>
+    <box top='473' left='-1' width='87' height='76'>
+      <label>car</label>
+    </box>
+    <box top='52' left='1028' width='268' height='193'>
+      <label>bus</label>
+    </box>
+    <box top='684' left='799' width='180' height='148'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/002925.jpg'>
+    <box top='294' left='1099' width='97' height='132'>
+      <label>van</label>
+    </box>
+    <box top='60' left='480' width='260' height='153'>
+      <label>bus</label>
+    </box>
+    <box top='70' left='255' width='116' height='103'>
+      <label>van</label>
+    </box>
+    <box top='2' left='1301' width='82' height='74'>
+      <label>car</label>
+    </box>
+    <box top='297' left='1489' width='121' height='76'>
+      <label>car</label>
+    </box>
+    <box top='134' left='1627' width='114' height='71'>
+      <label>car</label>
+    </box>
+    <box top='96' left='1637' width='111' height='63'>
+      <label>car</label>
+    </box>
+    <box top='37' left='1695' width='117' height='69'>
+      <label>car</label>
+    </box>
+    <box top='347' left='1818' width='121' height='86'>
+      <label>car</label>
+    </box>
+    <box top='435' left='38' width='98' height='80'>
+      <label>car</label>
+    </box>
+    <box top='478' left='-6' width='88' height='78'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/003075.jpg'>
+    <box top='542' left='1230' width='103' height='112'>
+      <label>car</label>
+    </box>
+    <box top='438' left='28' width='95' height='80'>
+      <label>car</label>
+    </box>
+    <box top='481' left='-13' width='83' height='80'>
+      <label>car</label>
+    </box>
+    <box top='299' left='1482' width='117' height='75'>
+      <label>car</label>
+    </box>
+    <box top='348' left='1813' width='113' height='87'>
+      <label>car</label>
+    </box>
+    <box top='138' left='1617' width='113' height='67'>
+      <label>car</label>
+    </box>
+    <box top='97' left='1626' width='113' height='64'>
+      <label>car</label>
+    </box>
+    <box top='34' left='1683' width='119' height='74'>
+      <label>car</label>
+    </box>
+    <box top='197' left='779' width='111' height='54'>
+      <label>car</label>
+    </box>
+    <box top='68' left='460' width='125' height='88'>
+      <label>van</label>
+    </box>
+    <box top='446' left='581' width='127' height='152'>
+      <label>van</label>
+    </box>
+    <box top='912' left='1695' width='236' height='172'>
+      <label>bus</label>
+    </box>
+  </image>
+  <image file='images/003225.jpg'>
+    <box top='725' left='1167' width='186' height='132'>
+      <label>van</label>
+    </box>
+    <box top='472' left='1184' width='305' height='322'>
+      <label>bus</label>
+    </box>
+    <box top='206' left='763' width='104' height='63'>
+      <label>car</label>
+    </box>
+    <box top='14' left='146' width='75' height='60'>
+      <label>car</label>
+    </box>
+    <box top='441' left='47' width='98' height='80'>
+      <label>car</label>
+    </box>
+    <box top='483' left='0' width='91' height='79'>
+      <label>car</label>
+    </box>
+    <box top='307' left='1472' width='120' height='76'>
+      <label>car</label>
+    </box>
+    <box top='148' left='1612' width='107' height='67'>
+      <label>car</label>
+    </box>
+    <box top='108' left='1619' width='112' height='66'>
+      <label>car</label>
+    </box>
+    <box top='47' left='1679' width='114' height='72'>
+      <label>car</label>
+    </box>
+    <box top='358' left='1798' width='125' height='86'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/003375.jpg'>
+    <box top='110' left='668' width='287' height='159'>
+      <label>bus</label>
+    </box>
+    <box top='451' left='594' width='82' height='98'>
+      <label>car</label>
+    </box>
+    <box top='414' left='30' width='94' height='80'>
+      <label>car</label>
+    </box>
+    <box top='454' left='-8' width='79' height='78'>
+      <label>car</label>
+    </box>
+    <box top='279' left='1486' width='119' height='76'>
+      <label>car</label>
+    </box>
+    <box top='121' left='1629' width='109' height='69'>
+      <label>car</label>
+    </box>
+    <box top='77' left='1638' width='110' height='67'>
+      <label>car</label>
+    </box>
+    <box top='19' left='1697' width='114' height='71'>
+      <label>car</label>
+    </box>
+    <box top='332' left='1819' width='113' height='88'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/003525.jpg'>
+    <box top='351' left='1162' width='71' height='89'>
+      <label>car</label>
+    </box>
+    <box top='260' left='1492' width='124' height='80'>
+      <label>car</label>
+    </box>
+    <box top='309' left='1828' width='113' height='84'>
+      <label>car</label>
+    </box>
+    <box top='99' left='1637' width='115' height='65'>
+      <label>car</label>
+    </box>
+    <box top='58' left='1647' width='113' height='64'>
+      <label>car</label>
+    </box>
+    <box top='-2' left='1701' width='123' height='67'>
+      <label>car</label>
+    </box>
+    <box top='399' left='24' width='100' height='80'>
+      <label>car</label>
+    </box>
+    <box top='433' left='-21' width='89' height='88'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/003675.jpg'>
+    <box top='416' left='54' width='95' height='79'>
+      <label>car</label>
+    </box>
+    <box top='458' left='4' width='95' height='80'>
+      <label>car</label>
+    </box>
+    <box top='276' left='1495' width='122' height='75'>
+      <label>car</label>
+    </box>
+    <box top='113' left='1634' width='114' height='68'>
+      <label>car</label>
+    </box>
+    <box top='74' left='1645' width='113' height='66'>
+      <label>car</label>
+    </box>
+    <box top='17' left='1699' width='122' height='68'>
+      <label>car</label>
+    </box>
+    <box top='328' left='1826' width='112' height='85'>
+      <label>car</label>
+    </box>
+    <box top='-30' left='92' width='195' height='131'>
+      <label>bus</label>
+    </box>
+  </image>
+  <image file='images/003825.jpg'>
+    <box top='142' left='372' width='253' height='240'>
+      <label>bus</label>
+    </box>
+    <box top='427' left='66' width='97' height='81'>
+      <label>car</label>
+    </box>
+    <box top='472' left='16' width='94' height='73'>
+      <label>car</label>
+    </box>
+    <box top='287' left='1488' width='119' height='75'>
+      <label>car</label>
+    </box>
+    <box top='126' left='1626' width='111' height='68'>
+      <label>car</label>
+    </box>
+    <box top='89' left='1637' width='109' height='62'>
+      <label>car</label>
+    </box>
+    <box top='30' left='1699' width='111' height='66'>
+      <label>car</label>
+    </box>
+    <box top='336' left='1812' width='116' height='86'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/003975.jpg'>
+    <box top='424' left='554' width='272' height='335'>
+      <label>bus</label>
+    </box>
+    <box top='444' left='54' width='97' height='79'>
+      <label>car</label>
+    </box>
+    <box top='487' left='5' width='92' height='74'>
+      <label>car</label>
+    </box>
+    <box top='306' left='1478' width='118' height='77'>
+      <label>car</label>
+    </box>
+    <box top='144' left='1616' width='110' height='69'>
+      <label>car</label>
+    </box>
+    <box top='110' left='1629' width='106' height='59'>
+      <label>car</label>
+    </box>
+    <box top='48' left='1684' width='116' height='68'>
+      <label>car</label>
+    </box>
+    <box top='358' left='1803' width='129' height='87'>
+      <label>car</label>
+    </box>
+    <box top='-10' left='106' width='86' height='60'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/004125.jpg'>
+    <box top='514' left='818' width='432' height='201'>
+      <label>bus</label>
+    </box>
+    <box top='424' left='600' width='84' height='100'>
+      <label>car</label>
+    </box>
+    <box top='263' left='1494' width='123' height='78'>
+      <label>car</label>
+    </box>
+    <box top='104' left='1636' width='111' height='68'>
+      <label>car</label>
+    </box>
+    <box top='63' left='1647' width='111' height='64'>
+      <label>car</label>
+    </box>
+    <box top='4' left='1707' width='115' height='69'>
+      <label>car</label>
+    </box>
+    <box top='313' left='1830' width='99' height='84'>
+      <label>car</label>
+    </box>
+    <box top='407' left='32' width='97' height='81'>
+      <label>car</label>
+    </box>
+    <box top='449' left='-12' width='89' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/004275.jpg'>
+    <box top='152' left='1160' width='151' height='316'>
+      <label>bus</label>
+    </box>
+    <box top='753' left='1284' width='149' height='103'>
+      <label>car</label>
+    </box>
+    <box top='276' left='1490' width='119' height='76'>
+      <label>car</label>
+    </box>
+    <box top='112' left='1629' width='111' height='75'>
+      <label>car</label>
+    </box>
+    <box top='77' left='1642' width='108' height='62'>
+      <label>car</label>
+    </box>
+    <box top='15' left='1699' width='117' height='68'>
+      <label>car</label>
+    </box>
+    <box top='327' left='1819' width='106' height='85'>
+      <label>car</label>
+    </box>
+    <box top='414' left='36' width='99' height='82'>
+      <label>car</label>
+    </box>
+    <box top='457' left='-4' width='87' height='80'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/004425.jpg'>
+    <box top='486' left='618' width='98' height='107'>
+      <label>car</label>
+    </box>
+    <box top='281' left='1486' width='119' height='75'>
+      <label>car</label>
+    </box>
+    <box top='121' left='1623' width='114' height='71'>
+      <label>car</label>
+    </box>
+    <box top='83' left='1633' width='114' height='65'>
+      <label>car</label>
+    </box>
+    <box top='21' left='1693' width='117' height='69'>
+      <label>car</label>
+    </box>
+    <box top='334' left='1815' width='120' height='90'>
+      <label>car</label>
+    </box>
+    <box top='415' left='39' width='94' height='81'>
+      <label>car</label>
+    </box>
+    <box top='457' left='-2' width='85' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/004575.jpg'>
+    <box top='59' left='221' width='87' height='72'>
+      <label>car</label>
+    </box>
+    <box top='252' left='1221' width='69' height='90'>
+      <label>car</label>
+    </box>
+    <box top='306' left='1480' width='119' height='76'>
+      <label>car</label>
+    </box>
+    <box top='147' left='1618' width='112' height='69'>
+      <label>car</label>
+    </box>
+    <box top='108' left='1627' width='109' height='64'>
+      <label>car</label>
+    </box>
+    <box top='46' left='1681' width='120' height='73'>
+      <label>car</label>
+    </box>
+    <box top='359' left='1804' width='135' height='85'>
+      <label>car</label>
+    </box>
+    <box top='434' left='53' width='98' height='82'>
+      <label>car</label>
+    </box>
+    <box top='478' left='4' width='93' height='80'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/004725.jpg'>
+    <box top='628' left='740' width='125' height='93'>
+      <label>car</label>
+    </box>
+    <box top='445' left='56' width='95' height='79'>
+      <label>car</label>
+    </box>
+    <box top='485' left='6' width='92' height='78'>
+      <label>car</label>
+    </box>
+    <box top='317' left='1464' width='117' height='76'>
+      <label>car</label>
+    </box>
+    <box top='159' left='1601' width='111' height='71'>
+      <label>car</label>
+    </box>
+    <box top='121' left='1614' width='105' height='64'>
+      <label>car</label>
+    </box>
+    <box top='61' left='1669' width='112' height='71'>
+      <label>car</label>
+    </box>
+    <box top='370' left='1789' width='125' height='77'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/004875.jpg'>
+    <box top='418' left='36' width='96' height='83'>
+      <label>car</label>
+    </box>
+    <box top='461' left='-14' width='92' height='80'>
+      <label>car</label>
+    </box>
+    <box top='181' left='1246' width='71' height='85'>
+      <label>car</label>
+    </box>
+    <box top='285' left='1488' width='121' height='75'>
+      <label>car</label>
+    </box>
+    <box top='339' left='1821' width='111' height='84'>
+      <label>car</label>
+    </box>
+    <box top='124' left='1620' width='119' height='73'>
+      <label>car</label>
+    </box>
+    <box top='85' left='1641' width='107' height='65'>
+      <label>car</label>
+    </box>
+    <box top='25' left='1695' width='118' height='70'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/005025.jpg'>
+    <box top='430' left='46' width='96' height='78'>
+      <label>car</label>
+    </box>
+    <box top='472' left='0' width='89' height='78'>
+      <label>car</label>
+    </box>
+    <box top='289' left='1492' width='121' height='80'>
+      <label>car</label>
+    </box>
+    <box top='341' left='1823' width='112' height='85'>
+      <label>car</label>
+    </box>
+    <box top='129' left='1627' width='117' height='73'>
+      <label>car</label>
+    </box>
+    <box top='93' left='1640' width='110' height='64'>
+      <label>car</label>
+    </box>
+    <box top='32' left='1698' width='116' height='70'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/005175.jpg'>
+    <box top='421' left='39' width='92' height='79'>
+      <label>car</label>
+    </box>
+    <box top='466' left='-7' width='89' height='80'>
+      <label>car</label>
+    </box>
+    <box top='283' left='1486' width='123' height='77'>
+      <label>car</label>
+    </box>
+    <box top='121' left='1625' width='115' height='73'>
+      <label>car</label>
+    </box>
+    <box top='82' left='1638' width='111' height='70'>
+      <label>car</label>
+    </box>
+    <box top='24' left='1699' width='113' height='70'>
+      <label>car</label>
+    </box>
+    <box top='335' left='1818' width='114' height='86'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/005325.jpg'>
+    <box top='408' left='40' width='100' height='81'>
+      <label>car</label>
+    </box>
+    <box top='451' left='-6' width='94' height='79'>
+      <label>car</label>
+    </box>
+    <box top='258' left='1496' width='124' height='76'>
+      <label>car</label>
+    </box>
+    <box top='95' left='1634' width='115' height='76'>
+      <label>car</label>
+    </box>
+    <box top='57' left='1643' width='116' height='66'>
+      <label>car</label>
+    </box>
+    <box top='6' left='1698' width='124' height='60'>
+      <label>car</label>
+    </box>
+    <box top='306' left='1829' width='105' height='83'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/005475.jpg'>
+    <box top='425' left='50' width='100' height='80'>
+      <label>car</label>
+    </box>
+    <box top='469' left='2' width='93' height='75'>
+      <label>car</label>
+    </box>
+    <box top='282' left='1482' width='119' height='75'>
+      <label>car</label>
+    </box>
+    <box top='126' left='1619' width='116' height='66'>
+      <label>car</label>
+    </box>
+    <box top='83' left='1634' width='108' height='67'>
+      <label>car</label>
+    </box>
+    <box top='19' left='1688' width='117' height='74'>
+      <label>car</label>
+    </box>
+    <box top='331' left='1808' width='119' height='85'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/005625.jpg'>
+    <box top='432' left='55' width='99' height='79'>
+      <label>car</label>
+    </box>
+    <box top='473' left='5' width='93' height='77'>
+      <label>car</label>
+    </box>
+    <box top='293' left='1479' width='121' height='76'>
+      <label>car</label>
+    </box>
+    <box top='344' left='1806' width='122' height='86'>
+      <label>car</label>
+    </box>
+    <box top='129' left='1618' width='107' height='75'>
+      <label>car</label>
+    </box>
+    <box top='95' left='1625' width='115' height='65'>
+      <label>car</label>
+    </box>
+    <box top='34' left='1684' width='116' height='70'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/005775.jpg'>
+    <box top='427' left='53' width='97' height='79'>
+      <label>car</label>
+    </box>
+    <box top='469' left='4' width='94' height='80'>
+      <label>car</label>
+    </box>
+    <box top='34' left='1687' width='114' height='72'>
+      <label>car</label>
+    </box>
+    <box top='96' left='1629' width='109' height='63'>
+      <label>car</label>
+    </box>
+    <box top='131' left='1619' width='111' height='74'>
+      <label>car</label>
+    </box>
+    <box top='293' left='1481' width='118' height='76'>
+      <label>car</label>
+    </box>
+    <box top='344' left='1806' width='128' height='91'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/005925.jpg'>
+    <box top='443' left='63' width='94' height='77'>
+      <label>car</label>
+    </box>
+    <box top='485' left='15' width='90' height='77'>
+      <label>car</label>
+    </box>
+    <box top='310' left='1475' width='118' height='77'>
+      <label>car</label>
+    </box>
+    <box top='154' left='1612' width='108' height='69'>
+      <label>car</label>
+    </box>
+    <box top='114' left='1620' width='110' height='65'>
+      <label>car</label>
+    </box>
+    <box top='56' left='1677' width='116' height='70'>
+      <label>car</label>
+    </box>
+    <box top='364' left='1796' width='128' height='84'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/006075.jpg'>
+    <box top='896' left='458' width='149' height='139'>
+      <label>car</label>
+    </box>
+    <box top='847' left='1606' width='177' height='131'>
+      <label>car</label>
+    </box>
+    <box top='258' left='1482' width='126' height='75'>
+      <label>car</label>
+    </box>
+    <box top='309' left='1819' width='122' height='87'>
+      <label>car</label>
+    </box>
+    <box top='98' left='1629' width='110' height='73'>
+      <label>car</label>
+    </box>
+    <box top='58' left='1634' width='115' height='64'>
+      <label>car</label>
+    </box>
+    <box top='0' left='1694' width='118' height='68'>
+      <label>car</label>
+    </box>
+    <box top='145' left='358' width='91' height='76'>
+      <label>car</label>
+    </box>
+    <box top='0' left='148' width='86' height='67'>
+      <label>car</label>
+    </box>
+    <box top='399' left='14' width='98' height='82'>
+      <label>car</label>
+    </box>
+    <box top='444' left='-21' width='80' height='78'>
+      <label>car</label>
+    </box>
+    <box top='295' left='498' width='95' height='132'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/006225.jpg'>
+    <box top='432' left='585' width='91' height='107'>
+      <label>car</label>
+    </box>
+    <box top='781' left='645' width='141' height='119'>
+      <label>car</label>
+    </box>
+    <box top='607' left='781' width='133' height='84'>
+      <label>car</label>
+    </box>
+    <box top='246' left='1008' width='109' height='71'>
+      <label>car</label>
+    </box>
+    <box top='274' left='1486' width='121' height='76'>
+      <label>car</label>
+    </box>
+    <box top='115' left='1623' width='113' height='70'>
+      <label>car</label>
+    </box>
+    <box top='77' left='1639' width='107' height='62'>
+      <label>car</label>
+    </box>
+    <box top='15' left='1696' width='114' height='68'>
+      <label>car</label>
+    </box>
+    <box top='325' left='1817' width='114' height='85'>
+      <label>car</label>
+    </box>
+    <box top='406' left='29' width='99' height='85'>
+      <label>car</label>
+    </box>
+    <box top='450' left='-35' width='109' height='81'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/006375.jpg'>
+    <box top='863' left='1521' width='161' height='132'>
+      <label>car</label>
+    </box>
+    <box top='594' left='999' width='124' height='99'>
+      <label>car</label>
+    </box>
+    <box top='265' left='1494' width='122' height='76'>
+      <label>car</label>
+    </box>
+    <box top='317' left='1829' width='103' height='87'>
+      <label>car</label>
+    </box>
+    <box top='103' left='1632' width='115' height='68'>
+      <label>car</label>
+    </box>
+    <box top='61' left='1643' width='114' height='68'>
+      <label>car</label>
+    </box>
+    <box top='4' left='1704' width='116' height='70'>
+      <label>car</label>
+    </box>
+    <box top='402' left='31' width='104' height='79'>
+      <label>car</label>
+    </box>
+    <box top='441' left='-11' width='87' height='83'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/006525.jpg'>
+    <box top='154' left='704' width='104' height='54'>
+      <label>car</label>
+    </box>
+    <box top='272' left='1488' width='122' height='76'>
+      <label>car</label>
+    </box>
+    <box top='119' left='1631' width='111' height='61'>
+      <label>car</label>
+    </box>
+    <box top='74' left='1644' width='109' height='64'>
+      <label>car</label>
+    </box>
+    <box top='15' left='1701' width='115' height='68'>
+      <label>car</label>
+    </box>
+    <box top='325' left='1820' width='107' height='90'>
+      <label>car</label>
+    </box>
+    <box top='404' left='43' width='99' height='82'>
+      <label>car</label>
+    </box>
+    <box top='449' left='-16' width='104' height='78'>
+      <label>car</label>
+    </box>
+    <box top='37' left='256' width='200' height='168'>
+      <label>bus</label>
+    </box>
+  </image>
+  <image file='images/006675.jpg'>
+    <box top='533' left='487' width='178' height='306'>
+      <label>bus</label>
+    </box>
+    <box top='402' left='50' width='96' height='79'>
+      <label>car</label>
+    </box>
+    <box top='446' left='3' width='90' height='75'>
+      <label>car</label>
+    </box>
+    <box top='272' left='1494' width='123' height='78'>
+      <label>car</label>
+    </box>
+    <box top='327' left='1829' width='114' height='80'>
+      <label>car</label>
+    </box>
+    <box top='113' left='1635' width='113' height='71'>
+      <label>car</label>
+    </box>
+    <box top='75' left='1646' width='113' height='64'>
+      <label>car</label>
+    </box>
+    <box top='13' left='1701' width='121' height='71'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/006825.jpg'>
+    <box top='29' left='1266' width='84' height='75'>
+      <label>car</label>
+    </box>
+    <box top='276' left='1494' width='121' height='75'>
+      <label>car</label>
+    </box>
+    <box top='117' left='1634' width='113' height='75'>
+      <label>car</label>
+    </box>
+    <box top='78' left='1645' width='113' height='67'>
+      <label>car</label>
+    </box>
+    <box top='17' left='1705' width='115' height='70'>
+      <label>car</label>
+    </box>
+    <box top='332' left='1825' width='98' height='78'>
+      <label>car</label>
+    </box>
+    <box top='405' left='50' width='100' height='79'>
+      <label>car</label>
+    </box>
+    <box top='446' left='0' width='93' height='78'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/006975.jpg'>
+    <box top='153' left='706' width='98' height='53'>
+      <label>car</label>
+    </box>
+    <box top='401' left='53' width='94' height='81'>
+      <label>car</label>
+    </box>
+    <box top='445' left='3' width='93' height='77'>
+      <label>car</label>
+    </box>
+    <box top='274' left='1500' width='118' height='72'>
+      <label>car</label>
+    </box>
+    <box top='112' left='1639' width='112' height='71'>
+      <label>car</label>
+    </box>
+    <box top='75' left='1654' width='107' height='64'>
+      <label>car</label>
+    </box>
+    <box top='14' left='1714' width='112' height='71'>
+      <label>car</label>
+    </box>
+    <box top='326' left='1830' width='114' height='85'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/007125.jpg'>
+    <box top='64' left='277' width='90' height='79'>
+      <label>car</label>
+    </box>
+    <box top='397' left='49' width='96' height='78'>
+      <label>car</label>
+    </box>
+    <box top='441' left='1' width='92' height='73'>
+      <label>car</label>
+    </box>
+    <box top='264' left='1500' width='120' height='75'>
+      <label>car</label>
+    </box>
+    <box top='104' left='1642' width='112' height='72'>
+      <label>car</label>
+    </box>
+    <box top='64' left='1654' width='108' height='64'>
+      <label>car</label>
+    </box>
+    <box top='1' left='1710' width='116' height='72'>
+      <label>car</label>
+    </box>
+    <box top='318' left='1833' width='94' height='73'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/007275.jpg'>
+    <box top='414' left='62' width='95' height='81'>
+      <label>car</label>
+    </box>
+    <box top='456' left='13' width='93' height='76'>
+      <label>car</label>
+    </box>
+    <box top='617' left='885' width='140' height='95'>
+      <label>car</label>
+    </box>
+    <box top='287' left='1494' width='119' height='74'>
+      <label>car</label>
+    </box>
+    <box top='126' left='1631' width='112' height='76'>
+      <label>car</label>
+    </box>
+    <box top='90' left='1643' width='112' height='63'>
+      <label>car</label>
+    </box>
+    <box top='340' left='1820' width='112' height='81'>
+      <label>car</label>
+    </box>
+    <box top='30' left='1701' width='115' height='68'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/007425.jpg'>
+    <box top='427' left='65' width='92' height='79'>
+      <label>car</label>
+    </box>
+    <box top='468' left='15' width='94' height='75'>
+      <label>car</label>
+    </box>
+    <box top='176' left='970' width='102' height='54'>
+      <label>car</label>
+    </box>
+    <box top='306' left='1477' width='118' height='75'>
+      <label>car</label>
+    </box>
+    <box top='149' left='1617' width='107' height='70'>
+      <label>car</label>
+    </box>
+    <box top='111' left='1625' width='109' height='64'>
+      <label>car</label>
+    </box>
+    <box top='50' left='1684' width='111' height='70'>
+      <label>car</label>
+    </box>
+    <box top='359' left='1797' width='127' height='82'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/007575.jpg'>
+    <box top='425' left='49' width='93' height='79'>
+      <label>car</label>
+    </box>
+    <box top='469' left='3' width='89' height='74'>
+      <label>car</label>
+    </box>
+    <box top='300' left='1476' width='119' height='73'>
+      <label>car</label>
+    </box>
+    <box top='355' left='1803' width='118' height='80'>
+      <label>car</label>
+    </box>
+    <box top='144' left='1615' width='107' height='69'>
+      <label>car</label>
+    </box>
+    <box top='105' left='1623' width='109' height='64'>
+      <label>car</label>
+    </box>
+    <box top='44' left='1681' width='115' height='72'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/007725.jpg'>
+    <box top='356' left='529' width='81' height='93'>
+      <label>car</label>
+    </box>
+    <box top='46' left='212' width='80' height='66'>
+      <label>car</label>
+    </box>
+    <box top='430' left='47' width='91' height='77'>
+      <label>car</label>
+    </box>
+    <box top='471' left='1' width='87' height='77'>
+      <label>car</label>
+    </box>
+    <box top='304' left='1468' width='115' height='75'>
+      <label>car</label>
+    </box>
+    <box top='145' left='1605' width='109' height='74'>
+      <label>car</label>
+    </box>
+    <box top='110' left='1615' width='109' height='65'>
+      <label>car</label>
+    </box>
+    <box top='50' left='1673' width='112' height='71'>
+      <label>car</label>
+    </box>
+    <box top='359' left='1791' width='129' height='80'>
+      <label>car</label>
+    </box>
+    <box top='3' left='1294' width='93' height='81'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/007875.jpg'>
+    <box top='268' left='692' width='110' height='104'>
+      <label>van</label>
+    </box>
+    <box top='153' left='367' width='92' height='76'>
+      <label>car</label>
+    </box>
+    <box top='552' left='554' width='61' height='117'>
+      <label>car</label>
+    </box>
+    <box top='701' left='822' width='122' height='98'>
+      <label>car</label>
+    </box>
+    <box top='542' left='1072' width='102' height='97'>
+      <label>car</label>
+    </box>
+    <box top='295' left='1472' width='119' height='76'>
+      <label>car</label>
+    </box>
+    <box top='140' left='1610' width='112' height='70'>
+      <label>car</label>
+    </box>
+    <box top='101' left='1621' width='110' height='64'>
+      <label>car</label>
+    </box>
+    <box top='41' left='1678' width='115' height='70'>
+      <label>car</label>
+    </box>
+    <box top='350' left='1795' width='124' height='82'>
+      <label>car</label>
+    </box>
+    <box top='419' left='41' width='94' height='80'>
+      <label>car</label>
+    </box>
+    <box top='462' left='-7' width='90' height='78'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/008025.jpg'>
+    <box top='144' left='356' width='71' height='62'>
+      <label>car</label>
+    </box>
+    <box top='268' left='1011' width='107' height='77'>
+      <label>car</label>
+    </box>
+    <box top='295' left='1478' width='117' height='78'>
+      <label>car</label>
+    </box>
+    <box top='138' left='1618' width='110' height='69'>
+      <label>car</label>
+    </box>
+    <box top='99' left='1628' width='108' height='65'>
+      <label>car</label>
+    </box>
+    <box top='43' left='1690' width='113' height='69'>
+      <label>car</label>
+    </box>
+    <box top='352' left='1802' width='122' height='82'>
+      <label>car</label>
+    </box>
+    <box top='539' left='648' width='104' height='114'>
+      <label>car</label>
+    </box>
+    <box top='420' left='42' width='96' height='79'>
+      <label>car</label>
+    </box>
+    <box top='463' left='-6' width='92' height='75'>
+      <label>car</label>
+    </box>
+    <box top='697' left='1083' width='148' height='107'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/008175.jpg'>
+    <box top='-5' left='85' width='179' height='93'>
+      <label>bus</label>
+    </box>
+    <box top='206' left='883' width='106' height='69'>
+      <label>car</label>
+    </box>
+    <box top='300' left='1477' width='120' height='74'>
+      <label>car</label>
+    </box>
+    <box top='141' left='1613' width='113' height='70'>
+      <label>car</label>
+    </box>
+    <box top='99' left='1628' width='109' height='66'>
+      <label>car</label>
+    </box>
+    <box top='92' left='1780' width='112' height='81'>
+      <label>car</label>
+    </box>
+    <box top='353' left='1805' width='121' height='86'>
+      <label>car</label>
+    </box>
+    <box top='571' left='677' width='96' height='83'>
+      <label>car</label>
+    </box>
+    <box top='423' left='34' width='93' height='79'>
+      <label>car</label>
+    </box>
+    <box top='464' left='-5' width='81' height='77'>
+      <label>car</label>
+    </box>
+    <box top='434' left='1168' width='70' height='106'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/008325.jpg'>
+    <box top='184' left='425' width='222' height='246'>
+      <label>bus</label>
+    </box>
+    <box top='282' left='1184' width='63' height='78'>
+      <label>car</label>
+    </box>
+    <box top='286' left='1477' width='122' height='77'>
+      <label>car</label>
+    </box>
+    <box top='126' left='1616' width='114' height='73'>
+      <label>car</label>
+    </box>
+    <box top='92' left='1631' width='108' height='62'>
+      <label>car</label>
+    </box>
+    <box top='342' left='1807' width='119' height='92'>
+      <label>car</label>
+    </box>
+    <box top='561' left='544' width='86' height='128'>
+      <label>car</label>
+    </box>
+    <box top='405' left='23' width='100' height='80'>
+      <label>car</label>
+    </box>
+    <box top='444' left='-8' width='73' height='82'>
+      <label>car</label>
+    </box>
+    <box top='459' left='1200' width='114' height='139'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/008475.jpg'>
+    <box top='534' left='720' width='374' height='197'>
+      <label>bus</label>
+    </box>
+    <box top='76' left='561' width='127' height='85'>
+      <label>van</label>
+    </box>
+    <box top='392' left='29' width='93' height='80'>
+      <label>car</label>
+    </box>
+    <box top='428' left='-13' width='83' height='84'>
+      <label>car</label>
+    </box>
+    <box top='274' left='1482' width='118' height='73'>
+      <label>car</label>
+    </box>
+    <box top='117' left='1623' width='112' height='68'>
+      <label>car</label>
+    </box>
+    <box top='77' left='1635' width='108' height='66'>
+      <label>car</label>
+    </box>
+    <box top='330' left='1811' width='103' height='87'>
+      <label>car</label>
+    </box>
+    <box top='1030' left='168' width='111' height='68'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/008625.jpg'>
+    <box top='114' left='1185' width='142' height='273'>
+      <label>bus</label>
+    </box>
+    <box top='45' left='308' width='259' height='220'>
+      <label>bus</label>
+    </box>
+    <box top='373' left='44' width='95' height='82'>
+      <label>car</label>
+    </box>
+    <box top='417' left='-2' width='90' height='76'>
+      <label>car</label>
+    </box>
+    <box top='254' left='1500' width='123' height='76'>
+      <label>car</label>
+    </box>
+    <box top='95' left='1648' width='110' height='72'>
+      <label>car</label>
+    </box>
+    <box top='55' left='1661' width='109' height='65'>
+      <label>car</label>
+    </box>
+    <box top='309' left='1835' width='103' height='82'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/008775.jpg'>
+    <box top='343' left='593' width='104' height='373'>
+      <label>bus</label>
+    </box>
+    <box top='384' left='51' width='98' height='80'>
+      <label>car</label>
+    </box>
+    <box top='430' left='1' width='94' height='76'>
+      <label>car</label>
+    </box>
+    <box top='263' left='1506' width='122' height='80'>
+      <label>car</label>
+    </box>
+    <box top='107' left='1653' width='111' height='70'>
+      <label>car</label>
+    </box>
+    <box top='65' left='1664' width='112' height='65'>
+      <label>car</label>
+    </box>
+    <box top='321' left='1842' width='111' height='84'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/008925.jpg'>
+    <box top='879' left='154' width='318' height='251'>
+      <label>bus</label>
+    </box>
+    <box top='383' left='52' width='94' height='78'>
+      <label>car</label>
+    </box>
+    <box top='423' left='1' width='93' height='77'>
+      <label>car</label>
+    </box>
+    <box top='257' left='1513' width='121' height='76'>
+      <label>car</label>
+    </box>
+    <box top='96' left='1659' width='113' height='70'>
+      <label>car</label>
+    </box>
+    <box top='57' left='1672' width='110' height='63'>
+      <label>car</label>
+    </box>
+    <box top='311' left='1851' width='85' height='80'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/009075.jpg'>
+    <box top='403' left='67' width='93' height='78'>
+      <label>car</label>
+    </box>
+    <box top='444' left='14' width='94' height='79'>
+      <label>car</label>
+    </box>
+    <box top='284' left='1499' width='121' height='77'>
+      <label>car</label>
+    </box>
+    <box top='122' left='1640' width='113' height='76'>
+      <label>car</label>
+    </box>
+    <box top='84' left='1655' width='109' height='69'>
+      <label>car</label>
+    </box>
+    <box top='338' left='1826' width='105' height='92'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/009225.jpg'>
+    <box top='399' left='50' width='97' height='80'>
+      <label>car</label>
+    </box>
+    <box top='443' left='1' width='94' height='75'>
+      <label>car</label>
+    </box>
+    <box top='145' left='1037' width='112' height='67'>
+      <label>car</label>
+    </box>
+    <box top='277' left='1505' width='119' height='78'>
+      <label>car</label>
+    </box>
+    <box top='117' left='1651' width='110' height='71'>
+      <label>car</label>
+    </box>
+    <box top='80' left='1655' width='114' height='63'>
+      <label>car</label>
+    </box>
+    <box top='335' left='1837' width='108' height='80'>
+      <label>car</label>
+    </box>
+    <box top='600' left='683' width='380' height='269'>
+      <label>bus</label>
+    </box>
+  </image>
+  <image file='images/009375.jpg'>
+    <box top='226' left='1131' width='114' height='287'>
+      <label>bus</label>
+    </box>
+    <box top='67' left='314' width='105' height='90'>
+      <label>van</label>
+    </box>
+    <box top='692' left='1390' width='131' height='112'>
+      <label>van</label>
+    </box>
+    <box top='227' left='481' width='77' height='77'>
+      <label>car</label>
+    </box>
+    <box top='410' left='64' width='95' height='78'>
+      <label>car</label>
+    </box>
+    <box top='451' left='13' width='94' height='76'>
+      <label>car</label>
+    </box>
+    <box top='698' left='1025' width='130' height='60'>
+      <label>car</label>
+    </box>
+    <box top='876' left='1627' width='141' height='111'>
+      <label>car</label>
+    </box>
+    <box top='292' left='1499' width='121' height='75'>
+      <label>car</label>
+    </box>
+    <box top='132' left='1641' width='115' height='70'>
+      <label>car</label>
+    </box>
+    <box top='92' left='1651' width='113' height='64'>
+      <label>car</label>
+    </box>
+    <box top='346' left='1828' width='103' height='82'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/009525.jpg'>
+    <box top='125' left='715' width='287' height='150'>
+      <label>bus</label>
+    </box>
+    <box top='232' left='480' width='86' height='84'>
+      <label>car</label>
+    </box>
+    <box top='78' left='543' width='92' height='60'>
+      <label>car</label>
+    </box>
+    <box top='-6' left='139' width='89' height='47'>
+      <label>car</label>
+    </box>
+    <box top='405' left='55' width='93' height='81'>
+      <label>car</label>
+    </box>
+    <box top='449' left='4' width='94' height='75'>
+      <label>car</label>
+    </box>
+    <box top='617' left='782' width='124' height='81'>
+      <label>car</label>
+    </box>
+    <box top='510' left='1249' width='84' height='93'>
+      <label>car</label>
+    </box>
+    <box top='290' left='1495' width='125' height='75'>
+      <label>car</label>
+    </box>
+    <box top='126' left='1640' width='113' height='74'>
+      <label>car</label>
+    </box>
+    <box top='90' left='1653' width='113' height='66'>
+      <label>car</label>
+    </box>
+    <box top='344' left='1830' width='101' height='83'>
+      <label>car</label>
+    </box>
+    <box top='377' left='1181' width='85' height='95'>
+      <label>van</label>
+    </box>
+    <box top='345' left='586' width='97' height='131'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/009675.jpg'>
+    <box top='14' left='215' width='86' height='66'>
+      <label>car</label>
+    </box>
+    <box top='209' left='464' width='92' height='92'>
+      <label>car</label>
+    </box>
+    <box top='202' left='909' width='93' height='52'>
+      <label>car</label>
+    </box>
+    <box top='573' left='767' width='125' height='93'>
+      <label>car</label>
+    </box>
+    <box top='386' left='44' width='96' height='80'>
+      <label>car</label>
+    </box>
+    <box top='430' left='-3' width='90' height='77'>
+      <label>car</label>
+    </box>
+    <box top='263' left='1512' width='124' height='79'>
+      <label>car</label>
+    </box>
+    <box top='100' left='1657' width='113' height='78'>
+      <label>car</label>
+    </box>
+    <box top='65' left='1669' width='111' height='64'>
+      <label>car</label>
+    </box>
+    <box top='319' left='1849' width='87' height='78'>
+      <label>car</label>
+    </box>
+    <box top='83' left='329' width='105' height='96'>
+      <label>van</label>
+    </box>
+    <box top='564' left='982' width='153' height='95'>
+      <label>van</label>
+    </box>
+    <box top='158' left='792' width='102' height='62'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/009825.jpg'>
+    <box top='457' left='620' width='116' height='133'>
+      <label>van</label>
+    </box>
+    <box top='87' left='585' width='91' height='60'>
+      <label>van</label>
+    </box>
+    <box top='122' left='351' width='88' height='75'>
+      <label>car</label>
+    </box>
+    <box top='146' left='693' width='85' height='53'>
+      <label>car</label>
+    </box>
+    <box top='275' left='1504' width='122' height='79'>
+      <label>car</label>
+    </box>
+    <box top='117' left='1649' width='113' height='72'>
+      <label>car</label>
+    </box>
+    <box top='77' left='1663' width='109' height='66'>
+      <label>car</label>
+    </box>
+    <box top='334' left='1840' width='86' height='77'>
+      <label>car</label>
+    </box>
+    <box top='398' left='43' width='99' height='82'>
+      <label>car</label>
+    </box>
+    <box top='440' left='-6' width='91' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/009975.jpg'>
+    <box top='218' left='472' width='86' height='86'>
+      <label>car</label>
+    </box>
+    <box top='12' left='193' width='78' height='66'>
+      <label>car</label>
+    </box>
+    <box top='395' left='45' width='98' height='82'>
+      <label>car</label>
+    </box>
+    <box top='439' left='0' width='91' height='77'>
+      <label>car</label>
+    </box>
+    <box top='275' left='1504' width='120' height='75'>
+      <label>car</label>
+    </box>
+    <box top='116' left='1650' width='109' height='69'>
+      <label>car</label>
+    </box>
+    <box top='77' left='1659' width='110' height='63'>
+      <label>car</label>
+    </box>
+    <box top='330' left='1836' width='97' height='75'>
+      <label>car</label>
+    </box>
+    <box top='373' left='1165' width='86' height='120'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/010125.jpg'>
+    <box top='391' left='49' width='94' height='80'>
+      <label>car</label>
+    </box>
+    <box top='433' left='0' width='94' height='79'>
+      <label>car</label>
+    </box>
+    <box top='197' left='445' width='86' height='86'>
+      <label>car</label>
+    </box>
+    <box top='458' left='583' width='58' height='108'>
+      <label>car</label>
+    </box>
+    <box top='775' left='1322' width='156' height='117'>
+      <label>car</label>
+    </box>
+    <box top='273' left='1505' width='119' height='77'>
+      <label>car</label>
+    </box>
+    <box top='114' left='1647' width='114' height='73'>
+      <label>car</label>
+    </box>
+    <box top='74' left='1659' width='112' height='68'>
+      <label>car</label>
+    </box>
+    <box top='331' left='1837' width='106' height='76'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/010275.jpg'>
+    <box top='625' left='916' width='137' height='67'>
+      <label>car</label>
+    </box>
+    <box top='277' left='1505' width='121' height='78'>
+      <label>car</label>
+    </box>
+    <box top='119' left='1645' width='116' height='70'>
+      <label>car</label>
+    </box>
+    <box top='76' left='1659' width='114' height='68'>
+      <label>car</label>
+    </box>
+    <box top='335' left='1836' width='93' height='73'>
+      <label>car</label>
+    </box>
+    <box top='392' left='56' width='99' height='80'>
+      <label>car</label>
+    </box>
+    <box top='436' left='7' width='93' height='76'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/010425.jpg'>
+    <box top='395' left='608' width='83' height='96'>
+      <label>car</label>
+    </box>
+    <box top='86' left='1330' width='76' height='74'>
+      <label>car</label>
+    </box>
+    <box top='279' left='1513' width='123' height='78'>
+      <label>car</label>
+    </box>
+    <box top='119' left='1657' width='114' height='73'>
+      <label>car</label>
+    </box>
+    <box top='80' left='1668' width='114' height='64'>
+      <label>car</label>
+    </box>
+    <box top='337' left='1847' width='89' height='75'>
+      <label>car</label>
+    </box>
+    <box top='394' left='58' width='100' height='81'>
+      <label>car</label>
+    </box>
+    <box top='437' left='9' width='94' height='78'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/010575.jpg'>
+    <box top='364' left='556' width='72' height='91'>
+      <label>car</label>
+    </box>
+    <box top='74' left='275' width='75' height='62'>
+      <label>car</label>
+    </box>
+    <box top='412' left='63' width='96' height='77'>
+      <label>car</label>
+    </box>
+    <box top='453' left='14' width='93' height='76'>
+      <label>car</label>
+    </box>
+    <box top='971' left='1638' width='177' height='122'>
+      <label>car</label>
+    </box>
+    <box top='294' left='1506' width='122' height='75'>
+      <label>car</label>
+    </box>
+    <box top='134' left='1647' width='115' height='72'>
+      <label>car</label>
+    </box>
+    <box top='96' left='1661' width='110' height='64'>
+      <label>car</label>
+    </box>
+    <box top='349' left='1838' width='87' height='87'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/010725.jpg'>
+    <box top='539' left='704' width='96' height='85'>
+      <label>car</label>
+    </box>
+    <box top='420' left='64' width='98' height='80'>
+      <label>car</label>
+    </box>
+    <box top='463' left='12' width='96' height='75'>
+      <label>car</label>
+    </box>
+    <box top='304' left='1500' width='121' height='78'>
+      <label>car</label>
+    </box>
+    <box top='146' left='1638' width='115' height='73'>
+      <label>car</label>
+    </box>
+    <box top='110' left='1652' width='112' height='62'>
+      <label>car</label>
+    </box>
+    <box top='363' left='1829' width='112' height='81'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/010875.jpg'>
+    <box top='426' left='63' width='96' height='79'>
+      <label>car</label>
+    </box>
+    <box top='468' left='16' width='89' height='79'>
+      <label>car</label>
+    </box>
+    <box top='313' left='1488' width='119' height='75'>
+      <label>car</label>
+    </box>
+    <box top='155' left='1633' width='106' height='71'>
+      <label>car</label>
+    </box>
+    <box top='117' left='1641' width='110' height='65'>
+      <label>car</label>
+    </box>
+    <box top='369' left='1817' width='106' height='85'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/011025.jpg'>
+    <box top='403' left='53' width='102' height='85'>
+      <label>car</label>
+    </box>
+    <box top='448' left='5' width='94' height='77'>
+      <label>car</label>
+    </box>
+    <box top='293' left='1496' width='122' height='74'>
+      <label>car</label>
+    </box>
+    <box top='131' left='1637' width='115' height='75'>
+      <label>car</label>
+    </box>
+    <box top='95' left='1651' width='112' height='68'>
+      <label>car</label>
+    </box>
+    <box top='349' left='1827' width='100' height='84'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/011175.jpg'>
+    <box top='386' left='49' width='100' height='78'>
+      <label>car</label>
+    </box>
+    <box top='429' left='0' width='94' height='80'>
+      <label>car</label>
+    </box>
+    <box top='749' left='1479' width='143' height='115'>
+      <label>car</label>
+    </box>
+    <box top='266' left='1511' width='123' height='76'>
+      <label>car</label>
+    </box>
+    <box top='106' left='1655' width='116' height='73'>
+      <label>car</label>
+    </box>
+    <box top='65' left='1665' width='116' height='69'>
+      <label>car</label>
+    </box>
+    <box top='323' left='1847' width='91' height='81'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/011325.jpg'>
+    <box top='196' left='914' width='99' height='58'>
+      <label>car</label>
+    </box>
+    <box top='389' left='44' width='98' height='80'>
+      <label>car</label>
+    </box>
+    <box top='427' left='-9' width='96' height='83'>
+      <label>car</label>
+    </box>
+    <box top='268' left='1510' width='122' height='79'>
+      <label>car</label>
+    </box>
+    <box top='105' left='1657' width='111' height='78'>
+      <label>car</label>
+    </box>
+    <box top='70' left='1665' width='113' height='67'>
+      <label>car</label>
+    </box>
+    <box top='321' left='1847' width='86' height='80'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/011475.jpg'>
+    <box top='395' left='57' width='96' height='81'>
+      <label>car</label>
+    </box>
+    <box top='439' left='5' width='96' height='77'>
+      <label>car</label>
+    </box>
+    <box top='276' left='1513' width='123' height='76'>
+      <label>car</label>
+    </box>
+    <box top='114' left='1658' width='112' height='73'>
+      <label>car</label>
+    </box>
+    <box top='76' left='1667' width='115' height='64'>
+      <label>car</label>
+    </box>
+    <box top='332' left='1848' width='94' height='72'>
+      <label>car</label>
+    </box>
+    <box top='642' left='1361' width='170' height='152'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/011625.jpg'>
+    <box top='150' left='750' width='125' height='79'>
+      <label>van</label>
+    </box>
+    <box top='252' left='478' width='81' height='83'>
+      <label>car</label>
+    </box>
+    <box top='123' left='353' width='81' height='70'>
+      <label>car</label>
+    </box>
+    <box top='404' left='55' width='98' height='80'>
+      <label>car</label>
+    </box>
+    <box top='446' left='6' width='93' height='79'>
+      <label>car</label>
+    </box>
+    <box top='786' left='1504' width='162' height='126'>
+      <label>car</label>
+    </box>
+    <box top='286' left='1504' width='118' height='78'>
+      <label>car</label>
+    </box>
+    <box top='130' left='1646' width='110' height='71'>
+      <label>car</label>
+    </box>
+    <box top='90' left='1658' width='110' height='64'>
+      <label>car</label>
+    </box>
+    <box top='344' left='1835' width='112' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/011775.jpg'>
+    <box top='145' left='388' width='78' height='66'>
+      <label>car</label>
+    </box>
+    <box top='224' left='949' width='110' height='64'>
+      <label>car</label>
+    </box>
+    <box top='592' left='1024' width='124' height='78'>
+      <label>car</label>
+    </box>
+    <box top='573' left='834' width='119' height='87'>
+      <label>car</label>
+    </box>
+    <box top='280' left='1501' width='123' height='78'>
+      <label>car</label>
+    </box>
+    <box top='120' left='1641' width='118' height='73'>
+      <label>car</label>
+    </box>
+    <box top='81' left='1652' width='116' height='67'>
+      <label>car</label>
+    </box>
+    <box top='333' left='1832' width='105' height='82'>
+      <label>car</label>
+    </box>
+    <box top='398' left='49' width='97' height='82'>
+      <label>car</label>
+    </box>
+    <box top='442' left='-1' width='93' height='76'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/011925.jpg'>
+    <box top='706' left='1173' width='124' height='89'>
+      <label>car</label>
+    </box>
+    <box top='98' left='1308' width='66' height='71'>
+      <label>car</label>
+    </box>
+    <box top='271' left='1504' width='121' height='81'>
+      <label>car</label>
+    </box>
+    <box top='113' left='1647' width='116' height='70'>
+      <label>car</label>
+    </box>
+    <box top='72' left='1659' width='115' height='62'>
+      <label>car</label>
+    </box>
+    <box top='327' left='1839' width='113' height='79'>
+      <label>car</label>
+    </box>
+    <box top='385' left='37' width='100' height='82'>
+      <label>car</label>
+    </box>
+    <box top='428' left='-5' width='88' height='83'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/012075.jpg'>
+    <box top='722' left='1458' width='140' height='125'>
+      <label>car</label>
+    </box>
+    <box top='271' left='1503' width='121' height='76'>
+      <label>car</label>
+    </box>
+    <box top='110' left='1643' width='116' height='74'>
+      <label>car</label>
+    </box>
+    <box top='75' left='1658' width='114' height='62'>
+      <label>car</label>
+    </box>
+    <box top='326' left='1836' width='114' height='84'>
+      <label>car</label>
+    </box>
+    <box top='447' left='642' width='97' height='101'>
+      <label>car</label>
+    </box>
+    <box top='27' left='227' width='90' height='72'>
+      <label>car</label>
+    </box>
+    <box top='387' left='40' width='96' height='81'>
+      <label>car</label>
+    </box>
+    <box top='427' left='-9' width='89' height='84'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/012225.jpg'>
+    <box top='130' left='343' width='87' height='72'>
+      <label>car</label>
+    </box>
+    <box top='49' left='234' width='83' height='69'>
+      <label>car</label>
+    </box>
+    <box top='205' left='790' width='102' height='61'>
+      <label>car</label>
+    </box>
+    <box top='906' left='1484' width='154' height='120'>
+      <label>car</label>
+    </box>
+    <box top='303' left='1488' width='119' height='73'>
+      <label>car</label>
+    </box>
+    <box top='146' left='1631' width='108' height='72'>
+      <label>car</label>
+    </box>
+    <box top='107' left='1640' width='109' height='65'>
+      <label>car</label>
+    </box>
+    <box top='358' left='1812' width='127' height='92'>
+      <label>car</label>
+    </box>
+    <box top='413' left='66' width='93' height='78'>
+      <label>car</label>
+    </box>
+    <box top='452' left='14' width='92' height='78'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/012375.jpg'>
+    <box top='387' left='33' width='99' height='84'>
+      <label>car</label>
+    </box>
+    <box top='428' left='-3' width='81' height='82'>
+      <label>car</label>
+    </box>
+    <box top='468' left='598' width='102' height='109'>
+      <label>car</label>
+    </box>
+    <box top='255' left='495' width='84' height='91'>
+      <label>car</label>
+    </box>
+    <box top='87' left='542' width='90' height='58'>
+      <label>car</label>
+    </box>
+    <box top='277' left='1494' width='125' height='78'>
+      <label>car</label>
+    </box>
+    <box top='119' left='1634' width='121' height='69'>
+      <label>car</label>
+    </box>
+    <box top='78' left='1652' width='112' height='66'>
+      <label>car</label>
+    </box>
+    <box top='334' left='1826' width='101' height='83'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/012525.jpg'>
+    <box top='391' left='44' width='93' height='80'>
+      <label>car</label>
+    </box>
+    <box top='433' left='-4' width='89' height='78'>
+      <label>car</label>
+    </box>
+    <box top='604' left='980' width='131' height='77'>
+      <label>car</label>
+    </box>
+    <box top='845' left='544' width='132' height='120'>
+      <label>car</label>
+    </box>
+    <box top='931' left='1563' width='177' height='141'>
+      <label>car</label>
+    </box>
+    <box top='412' left='1183' width='93' height='106'>
+      <label>car</label>
+    </box>
+    <box top='281' left='1494' width='120' height='77'>
+      <label>car</label>
+    </box>
+    <box top='125' left='1635' width='110' height='73'>
+      <label>car</label>
+    </box>
+    <box top='83' left='1646' width='113' height='66'>
+      <label>car</label>
+    </box>
+    <box top='338' left='1821' width='107' height='85'>
+      <label>car</label>
+    </box>
+    <box top='-9' left='1311' width='84' height='66'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/012675.jpg'>
+    <box top='26' left='1362' width='79' height='73'>
+      <label>car</label>
+    </box>
+    <box top='283' left='1484' width='122' height='79'>
+      <label>car</label>
+    </box>
+    <box top='125' left='1625' width='114' height='75'>
+      <label>car</label>
+    </box>
+    <box top='89' left='1636' width='114' height='63'>
+      <label>car</label>
+    </box>
+    <box top='342' left='1811' width='113' height='84'>
+      <label>car</label>
+    </box>
+    <box top='416' left='1129' width='62' height='98'>
+      <label>car</label>
+    </box>
+    <box top='187' left='892' width='104' height='72'>
+      <label>car</label>
+    </box>
+    <box top='49' left='496' width='94' height='62'>
+      <label>car</label>
+    </box>
+    <box top='180' left='437' width='78' height='80'>
+      <label>car</label>
+    </box>
+    <box top='388' left='42' width='102' height='85'>
+      <label>car</label>
+    </box>
+    <box top='430' left='-6' width='93' height='82'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/012825.jpg'>
+    <box top='717' left='431' width='122' height='146'>
+      <label>car</label>
+    </box>
+    <box top='264' left='1496' width='123' height='78'>
+      <label>car</label>
+    </box>
+    <box top='105' left='1638' width='116' height='77'>
+      <label>car</label>
+    </box>
+    <box top='70' left='1652' width='109' height='62'>
+      <label>car</label>
+    </box>
+    <box top='320' left='1825' width='107' height='90'>
+      <label>car</label>
+    </box>
+    <box top='126' left='696' width='99' height='57'>
+      <label>car</label>
+    </box>
+    <box top='404' left='583' width='83' height='97'>
+      <label>car</label>
+    </box>
+    <box top='376' left='35' width='96' height='81'>
+      <label>car</label>
+    </box>
+    <box top='417' left='-13' width='92' height='76'>
+      <label>car</label>
+    </box>
+    <box top='480' left='1238' width='130' height='159'>
+      <label>vehicle</label>
+    </box>
+  </image>
+  <image file='images/012975.jpg'>
+    <box top='170' left='907' width='145' height='89'>
+      <label>vehicle</label>
+    </box>
+    <box top='499' left='1114' width='94' height='91'>
+      <label>car</label>
+    </box>
+    <box top='265' left='1496' width='121' height='78'>
+      <label>car</label>
+    </box>
+    <box top='112' left='1641' width='114' height='66'>
+      <label>car</label>
+    </box>
+    <box top='68' left='1654' width='113' height='68'>
+      <label>car</label>
+    </box>
+    <box top='326' left='1829' width='117' height='80'>
+      <label>car</label>
+    </box>
+    <box top='379' left='31' width='100' height='82'>
+      <label>car</label>
+    </box>
+    <box top='420' left='-18' width='91' height='80'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/013125.jpg'>
+    <box top='13' left='442' width='123' height='87'>
+      <label>vehicle</label>
+    </box>
+    <box top='385' left='39' width='99' height='85'>
+      <label>car</label>
+    </box>
+    <box top='428' left='-8' width='90' height='76'>
+      <label>car</label>
+    </box>
+    <box top='277' left='1491' width='121' height='77'>
+      <label>car</label>
+    </box>
+    <box top='120' left='1634' width='114' height='70'>
+      <label>car</label>
+    </box>
+    <box top='79' left='1647' width='111' height='66'>
+      <label>car</label>
+    </box>
+    <box top='335' left='1821' width='102' height='82'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/013275.jpg'>
+    <box top='274' left='519' width='83' height='88'>
+      <label>car</label>
+    </box>
+    <box top='397' left='46' width='96' height='79'>
+      <label>car</label>
+    </box>
+    <box top='437' left='-3' width='90' height='77'>
+      <label>car</label>
+    </box>
+    <box top='287' left='1484' width='120' height='77'>
+      <label>car</label>
+    </box>
+    <box top='130' left='1621' width='114' height='74'>
+      <label>car</label>
+    </box>
+    <box top='90' left='1638' width='111' height='67'>
+      <label>car</label>
+    </box>
+    <box top='345' left='1809' width='113' height='88'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/013425.jpg'>
+    <box top='368' left='18' width='99' height='84'>
+      <label>car</label>
+    </box>
+    <box top='412' left='-19' width='80' height='81'>
+      <label>car</label>
+    </box>
+    <box top='252' left='1503' width='124' height='79'>
+      <label>car</label>
+    </box>
+    <box top='93' left='1649' width='113' height='74'>
+      <label>car</label>
+    </box>
+    <box top='51' left='1658' width='114' height='69'>
+      <label>car</label>
+    </box>
+    <box top='307' left='1840' width='92' height='78'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/013575.jpg'>
+    <box top='256' left='1501' width='124' height='78'>
+      <label>car</label>
+    </box>
+    <box top='98' left='1644' width='118' height='70'>
+      <label>car</label>
+    </box>
+    <box top='57' left='1658' width='111' height='67'>
+      <label>car</label>
+    </box>
+    <box top='312' left='1840' width='87' height='77'>
+      <label>car</label>
+    </box>
+    <box top='373' left='18' width='97' height='85'>
+      <label>car</label>
+    </box>
+    <box top='418' left='-18' width='77' height='82'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/013725.jpg'>
+    <box top='370' left='39' width='99' height='78'>
+      <label>car</label>
+    </box>
+    <box top='412' left='1' width='79' height='77'>
+      <label>car</label>
+    </box>
+    <box top='245' left='1511' width='123' height='76'>
+      <label>car</label>
+    </box>
+    <box top='289' left='1104' width='97' height='92'>
+      <label>car</label>
+    </box>
+    <box top='90' left='1656' width='119' height='66'>
+      <label>car</label>
+    </box>
+    <box top='48' left='1669' width='113' height='60'>
+      <label>car</label>
+    </box>
+    <box top='300' left='1851' width='87' height='71'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/013875.jpg'>
+    <box top='370' left='45' width='100' height='82'>
+      <label>car</label>
+    </box>
+    <box top='410' left='-3' width='93' height='79'>
+      <label>car</label>
+    </box>
+    <box top='250' left='1519' width='124' height='78'>
+      <label>car</label>
+    </box>
+    <box top='90' left='1658' width='122' height='71'>
+      <label>car</label>
+    </box>
+    <box top='50' left='1674' width='113' height='69'>
+      <label>car</label>
+    </box>
+    <box top='304' left='1857' width='81' height='72'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/014025.jpg'>
+    <box top='362' left='41' width='100' height='81'>
+      <label>car</label>
+    </box>
+    <box top='403' left='-7' width='95' height='79'>
+      <label>car</label>
+    </box>
+    <box top='248' left='1517' width='126' height='78'>
+      <label>car</label>
+    </box>
+    <box top='87' left='1666' width='113' height='73'>
+      <label>car</label>
+    </box>
+    <box top='49' left='1676' width='120' height='59'>
+      <label>car</label>
+    </box>
+    <box top='307' left='1859' width='81' height='65'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/014175.jpg'>
+    <box top='385' left='57' width='100' height='78'>
+      <label>car</label>
+    </box>
+    <box top='427' left='9' width='93' height='78'>
+      <label>car</label>
+    </box>
+    <box top='278' left='1511' width='119' height='77'>
+      <label>car</label>
+    </box>
+    <box top='124' left='1656' width='115' height='71'>
+      <label>car</label>
+    </box>
+    <box top='80' left='1670' width='111' height='66'>
+      <label>car</label>
+    </box>
+    <box top='336' left='1844' width='93' height='73'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/014325.jpg'>
+    <box top='657' left='908' width='133' height='102'>
+      <label>car</label>
+    </box>
+    <box top='387' left='55' width='100' height='80'>
+      <label>car</label>
+    </box>
+    <box top='429' left='6' width='93' height='79'>
+      <label>car</label>
+    </box>
+    <box top='282' left='1510' width='123' height='80'>
+      <label>car</label>
+    </box>
+    <box top='125' left='1654' width='116' height='71'>
+      <label>car</label>
+    </box>
+    <box top='89' left='1667' width='112' height='66'>
+      <label>car</label>
+    </box>
+    <box top='339' left='1845' width='97' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/014475.jpg'>
+    <box top='390' left='60' width='96' height='82'>
+      <label>car</label>
+    </box>
+    <box top='433' left='10' width='94' height='78'>
+      <label>car</label>
+    </box>
+    <box top='310' left='544' width='66' height='82'>
+      <label>car</label>
+    </box>
+    <box top='122' left='363' width='92' height='77'>
+      <label>car</label>
+    </box>
+    <box top='204' left='953' width='110' height='66'>
+      <label>car</label>
+    </box>
+    <box top='290' left='1506' width='125' height='76'>
+      <label>car</label>
+    </box>
+    <box top='133' left='1651' width='114' height='74'>
+      <label>car</label>
+    </box>
+    <box top='93' left='1666' width='112' height='68'>
+      <label>car</label>
+    </box>
+    <box top='349' left='1839' width='87' height='71'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/014625.jpg'>
+    <box top='713' left='468' width='114' height='151'>
+      <label>car</label>
+    </box>
+    <box top='379' left='69' width='99' height='84'>
+      <label>car</label>
+    </box>
+    <box top='421' left='18' width='94' height='77'>
+      <label>car</label>
+    </box>
+    <box top='284' left='1517' width='126' height='77'>
+      <label>car</label>
+    </box>
+    <box top='129' left='1668' width='110' height='74'>
+      <label>car</label>
+    </box>
+    <box top='88' left='1679' width='108' height='68'>
+      <label>car</label>
+    </box>
+    <box top='346' left='1853' width='86' height='65'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/014775.jpg'>
+    <box top='379' left='72' width='95' height='80'>
+      <label>car</label>
+    </box>
+    <box top='417' left='22' width='90' height='80'>
+      <label>car</label>
+    </box>
+    <box top='285' left='1525' width='123' height='77'>
+      <label>car</label>
+    </box>
+    <box top='132' left='1674' width='116' height='71'>
+      <label>car</label>
+    </box>
+    <box top='86' left='1687' width='110' height='71'>
+      <label>car</label>
+    </box>
+    <box top='348' left='1861' width='78' height='73'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/014925.jpg'>
+    <box top='245' left='539' width='78' height='90'>
+      <label>car</label>
+    </box>
+    <box top='25' left='306' width='90' height='76'>
+      <label>car</label>
+    </box>
+    <box top='355' left='63' width='95' height='81'>
+      <label>car</label>
+    </box>
+    <box top='396' left='11' width='95' height='81'>
+      <label>car</label>
+    </box>
+    <box top='263' left='1539' width='128' height='82'>
+      <label>car</label>
+    </box>
+    <box top='104' left='1689' width='119' height='77'>
+      <label>car</label>
+    </box>
+    <box top='69' left='1704' width='114' height='68'>
+      <label>car</label>
+    </box>
+    <box top='45' left='1235' width='94' height='77'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/015075.jpg'>
+    <box top='689' left='1161' width='139' height='98'>
+      <label>car</label>
+    </box>
+    <box top='279' left='587' width='84' height='104'>
+      <label>car</label>
+    </box>
+    <box top='96' left='655' width='99' height='57'>
+      <label>car</label>
+    </box>
+    <box top='360' left='75' width='94' height='80'>
+      <label>car</label>
+    </box>
+    <box top='401' left='23' width='92' height='76'>
+      <label>car</label>
+    </box>
+    <box top='273' left='1537' width='124' height='77'>
+      <label>car</label>
+    </box>
+    <box top='119' left='1683' width='121' height='69'>
+      <label>car</label>
+    </box>
+    <box top='77' left='1699' width='116' height='69'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/015225.jpg'>
+    <box top='360' left='88' width='95' height='81'>
+      <label>car</label>
+    </box>
+    <box top='402' left='37' width='92' height='77'>
+      <label>car</label>
+    </box>
+    <box top='278' left='1546' width='123' height='78'>
+      <label>car</label>
+    </box>
+    <box top='120' left='1692' width='122' height='76'>
+      <label>car</label>
+    </box>
+    <box top='81' left='1707' width='119' height='69'>
+      <label>car</label>
+    </box>
+    <box top='156' left='477' width='81' height='79'>
+      <label>car</label>
+    </box>
+    <box top='12' left='280' width='81' height='64'>
+      <label>car</label>
+    </box>
+    <box top='578' left='1015' width='145' height='84'>
+      <label>car</label>
+    </box>
+    <box top='391' left='609' width='75' height='86'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/015375.jpg'>
+    <box top='668' left='498' width='107' height='143'>
+      <label>car</label>
+    </box>
+    <box top='582' left='979' width='126' height='70'>
+      <label>car</label>
+    </box>
+    <box top='421' left='1207' width='75' height='90'>
+      <label>car</label>
+    </box>
+    <box top='264' left='1557' width='127' height='78'>
+      <label>car</label>
+    </box>
+    <box top='101' left='1708' width='120' height='78'>
+      <label>car</label>
+    </box>
+    <box top='66' left='1720' width='119' height='67'>
+      <label>car</label>
+    </box>
+    <box top='31' left='1401' width='85' height='78'>
+      <label>car</label>
+    </box>
+    <box top='233' left='544' width='78' height='89'>
+      <label>car</label>
+    </box>
+    <box top='348' left='83' width='92' height='81'>
+      <label>car</label>
+    </box>
+    <box top='392' left='32' width='90' height='77'>
+      <label>car</label>
+    </box>
+    <box top='74' left='380' width='100' height='92'>
+      <label>van</label>
+    </box>
+  </image>
+  <image file='images/015525.jpg'>
+    <box top='731' left='486' width='116' height='161'>
+      <label>van</label>
+    </box>
+    <box top='161' left='469' width='72' height='76'>
+      <label>car</label>
+    </box>
+    <box top='361' left='87' width='96' height='82'>
+      <label>car</label>
+    </box>
+    <box top='404' left='36' width='93' height='77'>
+      <label>car</label>
+    </box>
+    <box top='487' left='1127' width='103' height='96'>
+      <label>car</label>
+    </box>
+    <box top='91' left='1349' width='78' height='71'>
+      <label>car</label>
+    </box>
+    <box top='278' left='1550' width='125' height='79'>
+      <label>car</label>
+    </box>
+    <box top='121' left='1700' width='118' height='76'>
+      <label>car</label>
+    </box>
+    <box top='82' left='1712' width='114' height='66'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/015675.jpg'>
+    <box top='401' left='620' width='80' height='101'>
+      <label>car</label>
+    </box>
+    <box top='175' left='467' width='80' height='82'>
+      <label>car</label>
+    </box>
+    <box top='384' left='100' width='96' height='82'>
+      <label>car</label>
+    </box>
+    <box top='426' left='52' width='89' height='75'>
+      <label>car</label>
+    </box>
+    <box top='312' left='1531' width='125' height='80'>
+      <label>car</label>
+    </box>
+    <box top='158' left='1686' width='108' height='73'>
+      <label>car</label>
+    </box>
+    <box top='118' left='1694' width='114' height='68'>
+      <label>car</label>
+    </box>
+    <box top='797' left='1302' width='141' height='107'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/015825.jpg'>
+    <box top='612' left='862' width='131' height='77'>
+      <label>car</label>
+    </box>
+    <box top='755' left='1468' width='139' height='123'>
+      <label>car</label>
+    </box>
+    <box top='305' left='1539' width='124' height='80'>
+      <label>car</label>
+    </box>
+    <box top='148' left='1691' width='117' height='77'>
+      <label>car</label>
+    </box>
+    <box top='109' left='1703' width='115' height='71'>
+      <label>car</label>
+    </box>
+    <box top='137' left='1132' width='104' height='68'>
+      <label>car</label>
+    </box>
+    <box top='377' left='93' width='94' height='81'>
+      <label>car</label>
+    </box>
+    <box top='415' left='42' width='92' height='79'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/015975.jpg'>
+    <box top='421' left='712' width='57' height='113'>
+      <label>car</label>
+    </box>
+    <box top='426' left='1240' width='81' height='96'>
+      <label>car</label>
+    </box>
+    <box top='289' left='1543' width='127' height='79'>
+      <label>car</label>
+    </box>
+    <box top='134' left='1699' width='115' height='75'>
+      <label>car</label>
+    </box>
+    <box top='96' left='1709' width='115' height='66'>
+      <label>car</label>
+    </box>
+    <box top='22' left='1329' width='85' height='76'>
+      <label>car</label>
+    </box>
+    <box top='159' left='1316' width='75' height='82'>
+      <label>car</label>
+    </box>
+    <box top='360' left='89' width='98' height='79'>
+      <label>car</label>
+    </box>
+    <box top='402' left='39' width='91' height='78'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/016125.jpg'>
+    <box top='814' left='1370' width='161' height='122'>
+      <label>car</label>
+    </box>
+    <box top='164' left='932' width='109' height='55'>
+      <label>car</label>
+    </box>
+    <box top='111' left='664' width='92' height='59'>
+      <label>car</label>
+    </box>
+    <box top='366' left='94' width='100' height='81'>
+      <label>car</label>
+    </box>
+    <box top='403' left='45' width='93' height='79'>
+      <label>car</label>
+    </box>
+    <box top='294' left='1548' width='127' height='82'>
+      <label>car</label>
+    </box>
+    <box top='135' left='1693' width='124' height='74'>
+      <label>car</label>
+    </box>
+    <box top='99' left='1709' width='122' height='66'>
+      <label>car</label>
+    </box>
+  </image>
+  <image file='images/016275.jpg'>
+    <box top='597' left='1310' width='113' height='119'>
+      <label>car</label>
+    </box>
+    <box top='299' left='1549' width='122' height='84'>
+      <label>car</label>
+    </box>
+    <box top='145' left='1702' width='113' height='77'>
+      <label>car</label>
+    </box>
+    <box top='103' left='1712' width='113' height='70'>
+      <label>car</label>
+    </box>
+    <box top='366' left='91' width='92' height='83'>
+      <label>car</label>
+    </box>
+    <box top='407' left='39' width='95' height='78'>
+      <label>car</label>
+    </box>
+  </image>
+</images>
+</dataset>
