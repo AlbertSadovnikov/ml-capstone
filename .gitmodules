@@ -1,0 +1,3 @@
+[submodule "traffic/external/darknet"]
+	path = traffic/external/darknet
+	url = git@github.com:AlbertSadovnikov/darknet.git
