@@ -2,6 +2,7 @@
 #include <boost/program_options.hpp>
 #include <boost/filesystem.hpp>
 #include <opencv2/opencv.hpp>
+#include <darknet.h>
 
 using namespace std;
 
