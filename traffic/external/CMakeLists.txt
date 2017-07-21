@@ -7,4 +7,6 @@ option(WITH_OPENCV "with opencv" ON)
 option(WITH_OPENMP "with openmp" ON)
 
 add_subdirectory(darknet)
-set(DARKNET_INCLUDE_DIR ${CMAKE_CURRENT_LIST_DIR}/darknet/include PARENT_SCOPE)
+set(DARKNET_INCLUDE_DIRS ${DARKNET_INCLUDE_DIRS}/darknet/include PARENT_SCOPE)
+set(DARKNET_LIBRARY ${DARKNET_LIBRARY_STATIC} PARENT_SCOPE)
+
